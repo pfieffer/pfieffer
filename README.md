@@ -8,7 +8,7 @@ Find my opensource endeavours here 😇
 
 ### ✨&nbsp; About Me
 
-I am a Native Android Developer from Nepal🇳🇵 with 5+ years of experience in developing apps for digital agencies across various domains. I have experience working for companies in the US 🇺🇸 , Australia 🇦🇺 and the UK 🇬🇧 in full-time onsite and remote roles. 
+I am a Native Android Developer from Nepal🇳🇵 with 5+ years of experience in developing apps for digital agencies across various domains. I have experience working for companies in the US , Australia and the UK. 
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
