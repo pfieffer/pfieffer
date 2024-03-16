@@ -1,8 +1,8 @@
 ### Hi there <a href="https://www.ravipun.com.np/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 Find my opensource endeavours here 😇
 
-- 🔭 &nbsp;I’m currently working on myself  💯
-- 🌱 &nbsp;I’m currently learning Kotlin Multiplatform, Compose and NodeJS  🚀
+- 🔭 &nbsp;I’m currently working on a small app for android and iOS 😉
+- 🌱 &nbsp;I’m currently learning Compose, Kotlin Multiplatform, Flutter and NodeJS  🚀
 - 💬 &nbsp;Ask me about anything related to Android/Kotlin and mobile development  🧂
 - 👨‍💻 &nbsp;Read more about my experience and projects at [ravipun.com.np](https://www.ravipun.com.np)  🥊
 
